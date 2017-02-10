@@ -1,5 +1,5 @@
-** Getting started with Grunt **
-Prerequisites
+# Getting started with Grunt #
+
 1. Install *NodeJS* then run command `npm install -g grunt-cli`.
 2. Install *grunt* locally on your project i this case we'll use project1 i.e. `location/to/project1>npm install grunt --save-dev`. This will create a folder called `node_modules`
 3. Create *Package.json* by running command `npm init` and follow the on-screen prompts. his will generate for you a file called `package.json`. Open this file.
