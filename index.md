@@ -30,7 +30,8 @@
 
 your entire file should look like 
 
-``` "use strict";
+``` 
+"use strict";
 module.exports = function(grunt){
 
 grunt.initConfig({
@@ -60,7 +61,8 @@ grunt.loadNpmTasks('grunt-contrib-uglify');
 
       grunt.registerTask('default', ['uglify','watch']);
 
-}; ```
+};
+```
 
 
 
