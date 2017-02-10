@@ -12,5 +12,4 @@
   
   we'll get to that later.
   
- 7. Inside package.js
-pppp
+ 7. Inside package.json set up a "wrapper" function
